@@ -1,0 +1,56 @@
+@Syed 
+
+Program title: 
+Get a student's marks in 5 subjects and find the total & average.
+
+*Sample*
+
+**input**
+Enter Student Name: Abdul Razak
+Enter Tamil mark: 90
+Enter English mark: 90
+Enter Math Mark: 90
+Enter Science Mark: 90
+Enter Social Mark: 90
+
+**output**
+Total marks: 450/500
+Average: 90%
+
+@Abdul Rahman
+Get a student's marks in 5 subjects and find the total & average.
+if the average mark is greater than 90, print excellent
+if the average mark is greater than 80, print great
+if the average mark is greater than 70, print good
+if the average mark is greater than 60, print improve and get more percentage
+if the average mark is less than 50, print fail 
+
+*Sample*
+
+**input**
+Enter Student Name: Abdul Razak
+Enter Tamil mark: 90
+Enter English mark: 90
+Enter Math Mark: 90
+Enter Science Mark: 90
+Enter Social Mark: 90
+
+**output**
+Total marks: 450/500
+Average: 90%
+
+@Syed Lutfi
+Research and study about classes and objects from youtube videos. 
+Design a Student class. 
+The Robot class should have name, created date, last update attributes
+The robot class should have methods 
+	Walk()
+	Talk()
+	Jump()
+	ShutDown()
+	SelfDestroy()
+Encapsulate the Robot class
+
+
+
+ 
